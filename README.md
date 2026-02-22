@@ -1,24 +1,37 @@
-## 💲 System List-buy (Python)
-> Sistema feito em Python para criar uma lista de compras via terminal
+# 🛒 Lista de Compras em Python
 
-## 🚀 Funcionalidades do projeto
-- Inserir valores
-- Listar compras 
-- Remover compras
-- Opçao de limpar a lista
-- Validação de entradas com try/except
+Projeto desenvolvido para praticar lógica de programação utilizando Python.
 
-## 🛠️ Tecnologia usada:
-Python 3
-
-## 📚 O que reforcei e aprendi neste projeto
-- Estruturas de dados (listas)
-- If/Else/Elif em Python
+## 🚀 Funcionalidades
+- Inserir itens
+- Listar compras
+- Remover itens
+- Limpar lista
 - Tratamento de erros
-- Laços de repetição (for)
-- Organização de código
+- Menu interativo
 
-  ## ▶️ Como executar o programa
+- 📚 Conceitos aplicados
+- Listas
+- Loops (while / for)
+- Try/Except
+- Validação de entrada
+- Estruturas condicionais
+
+💻 Autor
+Matheus Oliveira
+
+```md
+<img width="456" height="286" alt="image" src="https://github.com/user-attachments/assets/f1d7faa5-738d-440a-9b62-51b006a8aef7" />
+<img width="367" height="248" alt="image" src="https://github.com/user-attachments/assets/df49d4ad-2f3a-447a-83a0-aba2302e5649" />
+<img width="409" height="339" alt="image" src="https://github.com/user-attachments/assets/c29d75b1-d8f9-4f06-ab2c-ecfdc90c7db3" />
+
+```
+
+## ▶️ Como executar
+
 ```bash
 python main.py
+
+
+
 
