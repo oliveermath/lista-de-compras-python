@@ -18,6 +18,3 @@ Python 3
 - Laços de repetição (for)
 - Organização de código
 
-## ▶️ Como executar o programa
-```bash
-python main.py
