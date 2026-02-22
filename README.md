@@ -12,8 +12,8 @@
 Python 3
 
 ## 📚 O que reforcei e aprendi neste projeto
-Estruturas de dados (listas)
-If/Else/Elif em Python
-Tratamento de erros
-Laços de repetição
-Organização de código
+- Estruturas de dados (listas)
+- If/Else/Elif em Python
+- Tratamento de erros
+- Laços de repetição (for)
+- Organização de código
