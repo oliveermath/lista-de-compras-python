@@ -22,7 +22,7 @@ Matheus Oliveira
 
 ```md
 <img width="456" height="286" alt="image" src="https://github.com/user-attachments/assets/f1d7faa5-738d-440a-9b62-51b006a8aef7" />
-```
+
 
 ## ▶️ Como executar
 
