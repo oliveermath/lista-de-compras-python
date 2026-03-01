@@ -17,7 +17,10 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 - Validação de entrada
 - Estruturas condicionais
 
-💻 Autor
+## 💾 Tecnologias utilizadas
+- Python 3
+  
+## 💻 Autor
 Matheus Oliveira
 
 ## 💾 Código rodando 
